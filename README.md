@@ -22,6 +22,8 @@ We do too! Mostly. They might be tasty. We'll never tell.
 
 # ... but someone keeps stealing the duck eggs
 
+This explanation has been graciously stolen from a neighbor.
+
 1. This “issue” is not new, this has been going on for years.
 2. Hays Co Sheriff has been contacted and reports that the taking of the eggs isn’t illegal.
 3. Our local Constable has been contacted and reports that the taking of the eggs isn’t illegal.
