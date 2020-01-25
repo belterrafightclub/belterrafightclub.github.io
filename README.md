@@ -1,7 +1,7 @@
 # Welcome to the Belterra Fight Club Neighborhood FAQ
 You've probably been pointed here because of a frequently asked question in your neighborhood. Our goal is to point you in the right direction.
 
-{% include toc.html html=content %}
+{% include toc.html html=content %}.
 
 # Rules of Belterra Fight Club 
 
